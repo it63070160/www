@@ -11,7 +11,7 @@
     </ul>
     <h2>Some Pictures here !</h2>
     <img src="cat.jpg">
-    <img src="cat2.jpg">
+    <img src="cat2.jpg" width="225" height="224">
     <h3><a href="http://www.it.kmitl.ac.th">เว็บไซต์คณะเทคโนโลยีสารสนเทศ</a></h3>
     <a href="https://onlearn.it.kmitl.ac.th">Onlearn IT KMITL</a>
   </body>
