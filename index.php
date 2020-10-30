@@ -14,8 +14,9 @@
     <img src="cat.jpg">
     <img src="cat2.jpg" width="225" height="224">
     <img src="https://sites.google.com/a/tcschool.ac.th/khxkhwam55555/_/rsrc/1574780736621/phu-cad-tha/google_logo.jpg" width="225" height="224">
+    <br>
     <a href="http://www.it.kmitl.ac.th">เว็บไซต์คณะเทคโนโลยีสารสนเทศ</a>
+    <br>
     <a href="https://onlearn.it.kmitl.ac.th">Onlearn IT KMITL</a>
-    
   </body>
 </html>
