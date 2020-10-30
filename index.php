@@ -18,7 +18,7 @@
     <a href="http://www.it.kmitl.ac.th">เว็บไซต์คณะเทคโนโลยีสารสนเทศ</a>
     <br>
     <a href="https://onlearn.it.kmitl.ac.th">Onlearn IT KMITL</a>
-    <h5>เรื่องตลก</h5>
-    test text
+    <p>เรื่องตลก
+    test text</p>
   </body>
 </html>
