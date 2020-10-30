@@ -1,5 +1,6 @@
 <html>
   <head>
+    <meta charset="UTF-8">
     <title>ITF-Veerawat</title>
   </head>
   <body>
@@ -11,7 +12,8 @@
     <h2>Some Pictures here !</h2>
     <img src="cat.jpg">
     <img src="cat2.jpg">
-    <h3><a href="http://www.it.kmitl.ac.th">IT KMITL Link</a>
+    <h3><a href="http://www.it.kmitl.ac.th">เว็บไซต์คณะเทคโนโลยีสารสนเทศ</a></h3>
+    <a href="https://onlearn.it.kmitl.ac.th">Onlearn IT KMITL</a>
   </body>
 </html>
   
